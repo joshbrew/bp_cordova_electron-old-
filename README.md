@@ -1,7 +1,7 @@
 ## Brains at Play distribution via Cordova+Electron 
 
 With an elevated command prompt:
-`npm i -g cordova`
+* `npm i -g cordova`
 
 To use cordova in VSCode, run Powershell as administrator then set:
 
