@@ -25,7 +25,7 @@ To build this project first run:
 
 `cordova platform add android`
 
-And to run automatically on a connected android device set up to be in developer mode:
+And to run automatically on a connected android device set up to be in developer mode, with USB debugging trusted on the device. It will look for an emulator if no device is connected.
 
 `cordova run android`
 
