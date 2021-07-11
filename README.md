@@ -44,3 +44,10 @@ cd to this repo, then
 
 `cordova run --emulator`
 
+
+### Notes
+
+The index.html file runs standalone
+
+If you `npm install` and `npm start` in the ./www folder you will run a Progressive Web App instead. See readme.
+
